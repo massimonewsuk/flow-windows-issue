@@ -1,0 +1,15 @@
+[ignore]
+.*/dist/.*
+.*/loadtests/.*
+.*/node_modules/config-chain/test/broken.json
+
+[include]
+
+[libs]
+
+[lints]
+all=error
+
+[options]
+include_warnings=true
+
